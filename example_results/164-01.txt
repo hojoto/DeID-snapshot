@@ -1,0 +1,73 @@
+"""Record date: [REDACTED]
+
+[REDACTED]
+
+[REDACTED]
+
+
+
+[REDACTED]
+
+
+
+
+
+Date: [REDACTED]
+
+
+
+[REDACTED]-year-old male who comes in for follow-up of his high blood pressure.  He denies having any chest pain, any shortness of breath, or any difficulty sleeping at night.  His brother-in-law lives with him.  He reports no change in [REDACTED] at all and no concerns. 
+
+
+
+PAST MEDICAL HISTORY:  
+
+
+
+(1)	[REDACTED].
+
+(2)	Hypertension.
+
+(3)	A history of anemia.
+
+(4)	BPH.
+
+(5)	History of peptic ulcer disease diagnosed by upper endoscopy in [REDACTED].
+
+
+
+MEDICATIONS:  [REDACTED] 25 mg q.d. and [REDACTED] 25 mg q.d. 
+
+
+
+ALLERGIES TO MEDICATION: None.
+
+
+
+SOCIAL HISTORY:  He doesn't smoke.
+
+
+
+PHYSICAL EXAM:  Weight 147, unchanged.  Blood pressure 140/70.  Pulse 72.  Lungs clear.  No crackles or wheezing.  Cardiac - Regular rate and rhythm.  S1, S2.  His abdomen is soft, nontender.  Extremities - trace edema at the ankles.
+
+
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)	Hypertension, which appears to be stable. Continue present regimen.  Will check a potassium, BUN and creatinine.
+
+(2)	History of normocytic anemia.  His last hematocrit in [REDACTED] was at 38, normal MCV.  At his next visit he will need a recheck of this as well as of B12 level. 
+
+(3)	History of borderline sugars, although his glucose today is 105.  
+
+(4)	Routine health maintenance.  Flu vaccine given to his left deltoid IM.  He will need Hemoccult cards at his next visit.  Follow up in 6 months or sooner as needed.
+
+
+
+
+
+[REDACTED]
+
+[REDACTED]"""
